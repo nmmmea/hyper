@@ -81,3 +81,9 @@ MSLgRdp.apk
 CompanionDeviceManager__tablet__auto_generated_characteristics_rro.apk
 MtkTelephonyProvider__nosdcard__auto_generated_characteristics_rro.apk
 MtkTeleService__nosdcard__auto_generated_characteristics_rro.apk
+auth-master.apk
+auth-xxhdpi.apk
+screen_recorder-master.apk
+screen_recorder-xxhdpi.apk
+split-XiaomiServiceFrameworkCN-master.apk
+split-XiaomiServiceFrameworkCN-xxhdpi.apk
