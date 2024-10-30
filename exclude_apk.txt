@@ -95,6 +95,13 @@ split-XiaomiServiceFrameworkCN-xhdpi.apk
 auth-xhdpi.apk
 screen_recorder-xhdpi.apk
 MiuiCredentialManager.apk
-
-
-
+atom-arm64_v8a.apk
+atom-master.apk
+atom-xhdpi.apk
+framework-res__tablet__auto_generated_characteristics_rro.apk
+FrameworksResCommon_Sys.apk
+FrameworksResCommonQva_Sys.apk
+SettingsResCommon_Sys.apk
+CellBroadcastReceiverResCommon_Sys.apk
+CarrierConfigResCommon_Sys.apk
+AospWifiResOverlay_mainline.apk
