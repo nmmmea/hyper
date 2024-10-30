@@ -91,4 +91,10 @@ WifiResCommonMainline_Sys.apk
 WifiResCommon_Sys.apk
 UwbResCommon_Sys.apk
 DeviceStatisticsService.apk
+split-XiaomiServiceFrameworkCN-xhdpi.apk
+auth-xhdpi.apk
+screen_recorder-xhdpi.apk
+MiuiCredentialManager.apk
+
+
 
