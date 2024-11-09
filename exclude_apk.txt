@@ -53,7 +53,6 @@ SoterService.apk
 SwitchAccess.apk
 TrichromeLibrary64.apk
 UwbUci.apk
-VoiceAssistAndroidT.apk
 VoiceTrigger.apk
 WMService.apk
 WebViewGoogle64.apk
