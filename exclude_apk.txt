@@ -105,3 +105,6 @@ CellBroadcastReceiverResCommon_Sys.apk
 CarrierConfigResCommon_Sys.apk
 AospWifiResOverlay_mainline.apk
 framework-res__nosdcard__auto_generated_characteristics_rro.apk
+auth-xxxhdpi.apk
+screen_recorder-xxxhdpi.apk
+split-XiaomiServiceFrameworkCN-xxxhdpi.apk
