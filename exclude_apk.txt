@@ -110,3 +110,5 @@ screen_recorder-xxxhdpi.apk
 split-XiaomiServiceFrameworkCN-xxxhdpi.apk
 atom-xxhdpi.apk
 MiuiLocationTimeZoneProviderService.apk
+HotwordEnrollmentOKGoogleRISCV.apk
+HotwordEnrollmentXGoogleRISCV.apk
