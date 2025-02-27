@@ -121,3 +121,4 @@ SarAuthN83.apk
 cit.apk
 AutoTest.apk
 CatchLog_Lc.apk
+Bdsms.apk
