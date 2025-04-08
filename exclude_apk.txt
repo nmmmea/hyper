@@ -122,3 +122,5 @@ cit.apk
 AutoTest.apk
 CatchLog_Lc.apk
 Bdsms.apk
+PhotoTable.apk
+messaging.apk
