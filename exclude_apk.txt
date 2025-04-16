@@ -125,3 +125,4 @@ Bdsms.apk
 PhotoTable.apk
 messaging.apk
 split-XiaomiServiceFrameworkCN-arm64_v8a.apk
+SystemHelper.apk
