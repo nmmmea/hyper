@@ -217,7 +217,7 @@ def extract_files():
 
                     # 建立一个集合，用来判断是否为 Fold 或者 Pad
                     is_fold = {"cetus", "zizhan", "babylon", "goku"}
-                    is_pad = {"nabu", "elish", "enuma", "dagu", "pipa", "liuqin", "yudi", "yunluo", "xun", "sheng", "dizi", "ruan", "uke", "muyu"}
+                    is_pad = {"nabu", "elish", "enuma", "dagu", "pipa", "liuqin", "yudi", "yunluo", "xun", "sheng", "dizi", "ruan", "uke", "muyu", "jinghu"}
                     is_flip = {"ruyi"}
 
                     if device_name in is_fold:
