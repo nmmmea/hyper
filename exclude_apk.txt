@@ -126,3 +126,5 @@ PhotoTable.apk
 messaging.apk
 split-XiaomiServiceFrameworkCN-arm64_v8a.apk
 SystemHelper.apk
+HotwordEnrollmentXGoogleRISCV_WIDEBAND.apk
+HotwordEnrollmentYGoogleRISCV_WIDEBAND.apk
