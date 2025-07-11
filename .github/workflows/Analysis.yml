@@ -111,6 +111,7 @@ jobs:
           output_apk/MIUIScreenRecorderLite.apk
           output_apk/MIUISecurityCenter.apk
           output_apk/MiuiHome.apk
+          output_apk/MIUIWeather.apk
           output_apk/AiAsstVision.apk
           
     - name: Get version
